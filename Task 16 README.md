@@ -15,3 +15,5 @@ Both the data sets are being analysed using  pandas, numpy and matplotlib
 
 ○ what the main findings are (add links to report documents where
 appropriate)
+Below is a brief overview of the automobile dataset.
+Data points include 2014_pass_rate, 2014_achieved, 2014_wrote, 2013_pass_rate,2013_achieved,2013_wrote, 2012_pass_rate, 2012_achieved, 2012_wrote. The notebook is divided into three main sections Data Cleaning and Preparation, Data Exploration and Visualization, Questions and answers and ending with Summary and Conclusion.
